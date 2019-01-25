@@ -205,4 +205,17 @@
 
 					});
 
+		
+	// Form Submit
+		// $('#submitDetails')
+		// 	.on('click', function(event) {
+		// 		event.preventDefault();
+		// 		var name = $('#name').val().trim();
+		// 		var email = $('#email').val().trim();
+		// 		var message = $('#message').val().trim();
+		// 		console.log(name, email, message);
+
+
+		// 	});
+
 })(jQuery);
